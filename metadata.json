@@ -1,0 +1,5 @@
+{
+  "name": "Comick Mobile Reader",
+  "description": "A smart phone optimized manga browser using Comick API with infinite scroll and a sleek dark mode interface.",
+  "requestFramePermissions": []
+}
